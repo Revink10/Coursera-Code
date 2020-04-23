@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en"><head>
+<html lang="en">
+   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -200,7 +201,7 @@ p.section-title {
             </li>
             <li id="phone" class="hidden-xs">
               <a href="tel:310-623-8008">
-                <span>310-623-8008</span></a><div>* We Deliver</div>
+                <span>310-623-8008</span></a>
             </li>
           </ul>
         </div>
@@ -214,7 +215,7 @@ p.section-title {
     310-623-8008
     </a>
   </div>
-  <div id="xs-deliver" class="text-center visible-xs">* We Deliver</div>
+  <div id="xs-deliver" class="text-center visible-xs"></div>
 
   <body>
 <div class="conatainer-fluid">
