@@ -13,7 +13,7 @@
   <style>
     body {
   font-size: 16px;
-  color: #fff;
+  color: #hotpink;
   background-color: white;
   font-family: 'Oxygen', sans-serif;
 }
