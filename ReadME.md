@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
    <head>
     <meta charset="utf-8">
@@ -168,7 +167,7 @@ p.section-title {
     <nav id="header-nav" class="navbar navbar-default">
       <div class="container">
         <div class="navbar-header">
-          <a href="index.html" class="pull-left visible-md visible-lg">
+          <a href="mod 3 index.html" class="pull-left visible-md visible-lg">
         
           </a>
 
@@ -207,6 +206,7 @@ p.section-title {
         </div>
       </div>
     </nav>
+   </body>
   </header>
 
   <div id="call-btn" class="visible-xs">
