@@ -127,7 +127,8 @@ p.section-title {
   }
   .navbar-brand h1 { 
     padding-top: 10px;
-    font-size: 5vw; 
+    font-size: 5vw;
+    float:left;
   }
   .navbar-brand p { 
     font-size: .6em;
@@ -139,6 +140,7 @@ p.section-title {
 
   #collapsable-nav a { 
     font-size: 1.2em;
+    visitbility: hidden;
   }
  
 
