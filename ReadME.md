@@ -4,9 +4,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Food LLC</title>
-   <link href="Styles_Mod3_Solution.css" rel="stylesheet" type="text/css">
+   <link href="mod3_solution.css" rel="stylesheet" type="text/css">
+   <link href="mod3.css" rel="stylesheet" type="text/css">
    <link href="Styles_Mod3_bootstrap.css" rel="stylesheet" type="text/css">
-   <link href="Styles_Mod3_Bootstrap_min.css" rel="stylesheet" type="text/css">
+   <link href="Styles_Mod3_Solution.css" rel="stylesheet" type="text/css">
   </head>
 
   <style>
