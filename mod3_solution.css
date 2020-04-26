@@ -1,4 +1,4 @@
-h1:first-of-type {
+.markdown-body > h1 {
   display: none !important;
 }
 
