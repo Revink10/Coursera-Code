@@ -1,19 +1,23 @@
+<!DOCTYPE html>
 <html lang="en">
-   <head>
+  <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Food LLC</title>
-   <link href="mod3_solution.css" rel="stylesheet" type="text/css">
-   <link href="mod3.css" rel="stylesheet" type="text/css">
-   <link href="Styles_Mod3_bootstrap.css" rel="stylesheet" type="text/css">
+    <!-- Dupes -->
    <link href="Styles_Mod3_Solution.css" rel="stylesheet" type="text/css">
+   <link href="mod3.css" rel="stylesheet" type="text/css">
+   <link href="mod3_solution.css" rel="stylesheet" type="text/css">
+  <!-- End Dupes -->
+
+   <link href="Styles_Mod3_bootstrap.css" rel="stylesheet" type="text/css">
   </head>
 
   <style>
     body {
   font-size: 16px;
-  color: #hotpink;
+  color: #fff;
   background-color: white;
   font-family: 'Oxygen', sans-serif;
 }
@@ -128,8 +132,7 @@ p.section-title {
   }
   .navbar-brand h1 { 
     padding-top: 10px;
-    font-size: 5vw;
-    float:left;
+    font-size: 5vw; 
   }
   .navbar-brand p { 
     font-size: .6em;
@@ -141,7 +144,6 @@ p.section-title {
 
   #collapsable-nav a { 
     font-size: 1.2em;
-    visitbility: hidden;
   }
  
 
@@ -163,14 +165,14 @@ p.section-title {
     visibility: hidden;
   }
 }
-</style>
+  </style>
 
 <body>
   <header>
     <nav id="header-nav" class="navbar navbar-default">
       <div class="container">
         <div class="navbar-header">
-          <a href="mod 3 index.html" class="pull-left visible-md visible-lg">
+          <a href="index.html" class="pull-left visible-md visible-lg">
         
           </a>
 
@@ -203,13 +205,12 @@ p.section-title {
             </li>
             <li id="phone" class="hidden-xs">
               <a href="tel:310-623-8008">
-                <span>310-623-8008</span></a>
+                <span>310-623-8008</span></a><div>* We Deliver</div>
             </li>
           </ul>
         </div>
       </div>
     </nav>
-   </body>
   </header>
 
   <div id="call-btn" class="visible-xs">
@@ -218,7 +219,7 @@ p.section-title {
     310-623-8008
     </a>
   </div>
-  <div id="xs-deliver" class="text-center visible-xs"></div>
+  <div id="xs-deliver" class="text-center visible-xs">* We Deliver</div>
 
   <body>
 <div class="conatainer-fluid">
