@@ -1,3 +1,7 @@
+h1:first-of-type {
+  display: none !important;
+}
+
 body {
   font-size: 16px;
   color: #fff;
